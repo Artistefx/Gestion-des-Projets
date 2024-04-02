@@ -1,0 +1,95 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LoginApp",
+            "request": "launch",
+            "mainClass": "presentation.FrontOffice.LoginApp",
+            "projectName": "Gestion de projet_45c07db5"
+        },
+        {
+            "type": "java",
+            "name": "DemarerBackOffice",
+            "request": "launch",
+            "mainClass": "presentation.BackOffice.DemarerBackOffice",
+            "projectName": "Gestion de projet_23d921f7"
+        },
+        {
+            "type": "java",
+            "name": "DemarerFrontOffice",
+            "request": "launch",
+            "mainClass": "presentation.FrontOffice.DemarerFrontOffice",
+            "projectName": "Gestion de projet_23d921f7"
+        },
+        {
+            "type": "java",
+            "name": "DemarerFrontOffice",
+            "request": "launch",
+            "mainClass": "presentation.FrontOffice.DemarerFrontOffice",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "DemarerBackOffice",
+            "request": "launch",
+            "mainClass": "presentation.BackOffice.DemarerBackOffice",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "ProfWindow",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "presentation.FrontOffice.ProfWindow",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "LoginApp",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "presentation.FrontOffice.LoginApp",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "try01",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "presentation.FrontOffice.try01",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "try00",
+            "request": "launch",
+            "mainClass": "persistance.try00",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "try00(1)",
+            "request": "launch",
+            "mainClass": "presentation.BackOffice.try00",
+            "projectName": "Gestion de projet_82975a1e"
+        },
+        {
+            "type": "java",
+            "name": "UserConnexion",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "presentation.FrontOffice.UserConnexion",
+            "projectName": "Gestion de projet_82975a1e"
+        }
+    ]
+}
